@@ -22,6 +22,7 @@ Fitur Utama
     Teknologi yang Digunakan:
         Backend: Laravel 11 dengan struktur MVC.
         Frontend: Blade templating.
+        vue js
 
 Instalasi Proyek
 
@@ -99,15 +100,14 @@ PUT /api/visitors/{id}: Memperbarui data pengunjung berdasarkan ID.
     DELETE /api/visitors/{id}: Menghapus data pengunjung berdasarkan ID.
 
 Pengujian API
+Menggunakan Postman atau alat serupa untuk menguji endpoint API.
 
-Gunakan Postman atau alat serupa untuk menguji endpoint API.
 Anggota Tim
 Nama	NIM	Kelas
 Anggara Gustika	220660121075	IF_VD
 Abdah Syakiroh	220660121144	IF_VD
 Anjelina Mentari R	220660121024	IF_VD
 Rais Mughni Salam	220660121010	IF_VD
-Deployment
 
 Lisensi
 
